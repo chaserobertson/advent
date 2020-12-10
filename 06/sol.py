@@ -36,7 +36,6 @@ for group in groups:
         for ch in individual:
             item = group_set.setdefault(ch, 0)
             group_set[ch] += 1
-    # print(group_set)
 
     all_yes = 0
     l = len(group)
@@ -45,5 +44,4 @@ for group in groups:
             all_yes += 1
     counts.append(all_yes)
 
-# print(counts)
 print(sum(counts))
