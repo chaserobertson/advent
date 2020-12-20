@@ -6,7 +6,7 @@ in_file = pathlib.Path.cwd().joinpath('15', 'input.txt')
 with open(in_file) as input:
     lines = input.readlines()
 
-FIN = 2020
+FIN = 30000000
 
 starting_numbers = lines[0].strip().split(',')
 numbers = [int(num) for num in starting_numbers]
