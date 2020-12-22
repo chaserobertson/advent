@@ -58,7 +58,6 @@ for i in range(0, len(nearby_tickets)):
             errors.append(val)
             error_tickets.append(i)
 
-print(errors)
 print(sum(errors))
 
 print('part 2')
