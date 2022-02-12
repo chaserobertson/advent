@@ -19,6 +19,7 @@ def execute(arg1, op, arg2):
         return arg1 * arg2
 
 
+# given a parenth-less expression, evaluate left to right
 def simple_evaluate(exp):
     args = exp.split(' ')
     arg1 = None
