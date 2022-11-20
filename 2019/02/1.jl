@@ -2,7 +2,7 @@
 
 using DelimitedFiles
 
-inputs = readdlm("2019/02/input.txt", ',', Int)
+inputs = readdlm("2019/02/test.txt", ',', Int)
 
 inputs[2] = 12
 inputs[3] = 2
