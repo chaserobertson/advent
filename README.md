@@ -1,10 +1,14 @@
 # advent
 My solutions (and attempted solutions) to the seasonal puzzles presented at https://adventofcode.com/ :star_struck:
 
-**2022**: 30:star:/ 50
+Each year offers a maximum of 50:star:
 
-**2021**: 36 :star:'s of 50
+**2023**: :mantelpiece_clock:
 
-**2020**: 41 :star:'s of 50
+**2022**: 30:star:
 
-**2019**: 12 :star:'s of 50
+**2021**: 36:star:
+
+**2020**: 41:star:
+
+**2019**: 12:star:
