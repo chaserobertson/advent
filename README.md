@@ -1,2 +1,2 @@
-# advent2020
-https://adventofcode.com/
+# advent
+My solutions (and attempted solutions) to the seasonal puzzles presented at https://adventofcode.com/
