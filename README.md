@@ -1,7 +1,7 @@
 # advent
-My solutions (and attempted solutions) to the seasonal puzzles presented at https://adventofcode.com/
+My solutions (and attempted solutions) to the seasonal puzzles presented at https://adventofcode.com/ :star_struck:
 
-**2022**: 30 :star:'s of 50
+**2022**: 30:star:/ 50
 
 **2021**: 36 :star:'s of 50
 
