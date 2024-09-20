@@ -3,7 +3,7 @@ My solutions (and attempted solutions) to the seasonal puzzles presented at http
 
 Each year offers a maximum of 50⭐
 
-**2023**: 30⭐
+**2023**: 32⭐
 
 **2022**: 30⭐
 
