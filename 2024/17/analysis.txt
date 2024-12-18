@@ -1,0 +1,24 @@
+0  2 4: A % 8
+2  1 7: B ^= 7
+4  7 5: C = A // B
+6  0 3: A //= 8
+8  4 4: B ^= C
+10 1 7: B ^= 7
+12 5 5: out B % 8
+14 3 0: jmp 0 if A != 0
+
+i = 14
+A = 0
+
+i = 12
+B divisible by 8
+
+i = 10
+B xor'd with 7
+B = 15
+
+i = 8
+B xor'd with C
+
+i = 6
+A int divided by 8
